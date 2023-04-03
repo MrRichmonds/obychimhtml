@@ -1,0 +1,47 @@
+
+
+         .RGB {
+		             color:rgb(0,153,204);} /* color-цвет RGB */
+		 
+		 .colorKod {
+		             color:#ee3e80;}
+		.colorName {
+		             color:#AFEEEE;}
+		.cveta {
+		             color:green;!important}
+		div.background{
+		             background-color:#9999CC;}
+		div#primer1 {
+		            color:green;}
+	.primer3   {
+		        background-color:rgba(10,78,11,0.15); /* указываем красный зеленый синий и степень непрозрачности. Степень непразрачности указываем через точку*/
+	           }
+	.primer2  {
+               color:white;
+               opacity:0.5;       /*указал color просто, а opacity совместил чтобы получить степень непразрачности*/
+	          ;}  
+     .opacity {
+		      background-color:#2F4F4F
+	          ;}
+.primerhsla {
+           background-color:hsla(0,100%,100%,0.0);}
+.primerhsla1 {
+           background-color:hsla(30,50%,25%,0.5);}	
+
+
+.primerhsla2 {
+	       background-color:red;
+              }   
+.primerhsla2 {
+           background-color:hsla(0,0%,0%,1.0);
+		   color:hsl(0,0%,90%);
+		   }	
+.size {
+	  font-size:36px;
+      }
+.size1 {
+	  font-size:76%;
+     }
+.size2 {
+	  font-size:1.5em;
+       }
